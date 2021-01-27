@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144069088359",
+    "firebase_url": "https://home-made-food-delivery-f6704.firebaseio.com",
+    "project_id": "home-made-food-delivery-f6704",
+    "storage_bucket": "home-made-food-delivery-f6704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144069088359:android:d478f2d6939b37ae41f0c2",
+        "android_client_info": {
+          "package_name": "com.example.hmfd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144069088359-3o11qc1hfthrfmkkjchuv2c1m56vl8fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnxjcXRp_2DN_pp9_hQ1JhPbXTf0cqbPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144069088359-3o11qc1hfthrfmkkjchuv2c1m56vl8fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
